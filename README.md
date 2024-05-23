@@ -15,7 +15,7 @@ Bienvenidos al repositorio donde he recopilado una variedad de recursos interact
    - [Iniciar Aventura](https://github.com/Noeliacasanova200400/Noeliacasanova200400.github.io/blob/0c49e5362d708de3686d71fb45a0b133b7dd2a60/Una%20historia%20en%20Par%C3%ADs.html)
 
 4. **Glosario en EPUB**: Accede a un glosario completo de términos y expresiones en francés para enriquecer tu vocabulario.
-   - [Descargar Glosario](link-a-glosario)
+   - [Descargar Glosario](https://github.com/Noeliacasanova200400/Noeliacasanova200400.github.io/blob/2f4e9c435f5586691e6d78e4c4f6c8533dac37f2/glosario.epub)
 
 Cada recurso está diseñado para proporcionar una experiencia de aprendizaje completa y envolvente, ideal para estudiantes de todos los niveles que deseen mejorar su francés de manera efectiva y divertida.
 
