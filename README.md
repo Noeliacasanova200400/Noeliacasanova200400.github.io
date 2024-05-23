@@ -6,7 +6,7 @@ Bienvenidos al repositorio donde he recopilado una variedad de recursos interact
 ## Contenidos
 
 1. **Ejercicios en PDF**: Una serie de ejercicios prácticos para reforzar el conocimiento del francés, desde saludos comunes hasta vocabulario de comida y bebida.
-   - [Ver Ejercicios](link-a-ejercicios-en-pdf)
+   - [Ver Ejercicios](https://github.com/Noeliacasanova200400/Noeliacasanova200400.github.io/blob/387be801033f080d51a62d8034c0f34775a3a0b3/ejercicios%20en%20formato%20pdf.pdf)
    
 2. **Presentación Interactiva**: Explora conceptos básicos del francés a través de una presentación dinámica que incluye ejercicios y explicaciones interactivas.
    - [Explorar Presentación](link-a-presentacion-interactiva)
