@@ -9,7 +9,7 @@ Bienvenidos al repositorio donde he recopilado una variedad de recursos interact
    - [Ver Ejercicios](https://github.com/Noeliacasanova200400/Noeliacasanova200400.github.io/blob/387be801033f080d51a62d8034c0f34775a3a0b3/ejercicios%20en%20formato%20pdf.pdf)
    
 2. **Presentación Interactiva**: Explora conceptos básicos del francés a través de una presentación dinámica que incluye ejercicios y explicaciones interactivas.
-   - [Explorar Presentación](link-a-presentacion-interactiva)
+   - [Explorar Presentación](https://github.com/Noeliacasanova200400/Noeliacasanova200400.github.io/blob/90775b6e7142454ca5868e44c1f3ab93237df0d4/Presentaci%C3%B3n%20interactiva-%20Noelia%20Casanova%20Castro%20(2).html)
 
 3. **Narrativa Interactiva 'Una historia en París'**: Sumérgete en una aventura por París y practica tu francés en situaciones de la vida real a través de esta historia interactiva.
    - [Iniciar Aventura](link-a-una-historia-en-paris)
