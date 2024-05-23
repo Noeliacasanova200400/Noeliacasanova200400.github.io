@@ -12,7 +12,7 @@ Bienvenidos al repositorio donde he recopilado una variedad de recursos interact
    - [Explorar Presentación](https://github.com/Noeliacasanova200400/Noeliacasanova200400.github.io/blob/90775b6e7142454ca5868e44c1f3ab93237df0d4/Presentaci%C3%B3n%20interactiva-%20Noelia%20Casanova%20Castro%20(2).html)
 
 3. **Narrativa Interactiva 'Una historia en París'**: Sumérgete en una aventura por París y practica tu francés en situaciones de la vida real a través de esta historia interactiva.
-   - [Iniciar Aventura](link-a-una-historia-en-paris)
+   - [Iniciar Aventura](https://github.com/Noeliacasanova200400/Noeliacasanova200400.github.io/blob/0c49e5362d708de3686d71fb45a0b133b7dd2a60/Una%20historia%20en%20Par%C3%ADs.html)
 
 4. **Glosario en EPUB**: Accede a un glosario completo de términos y expresiones en francés para enriquecer tu vocabulario.
    - [Descargar Glosario](link-a-glosario)
